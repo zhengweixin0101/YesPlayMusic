@@ -728,10 +728,9 @@
 
       <div class="footer">
         <p class="author"
-          >MADE BY
-          <a href="http://github.com/qier222" target="_blank">QIER222</a></p
+          >BY
+          <a href="http://zhengweixin.top" target="_blank">Weixin Zheng</a></p
         >
-        <p class="version">v{{ version }}</p>
 
         <!--<a
           v-if="!isElectron"
