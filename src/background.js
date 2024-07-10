@@ -186,7 +186,7 @@ class Background {
         isWindows ||
         (isLinux && this.store.get('settings.linuxEnableCustomTitlebar'))
       ),
-      title: 'YesPlayMusic',
+      title: 'Music',
       show: false,
       webPreferences: {
         webSecurity: false,
@@ -351,7 +351,7 @@ class Background {
           width: 800,
           height: 600,
           titleBarStyle: 'default',
-          title: 'YesPlayMusic',
+          title: 'Musci',
           webPreferences: {
             webSecurity: false,
             nodeIntegration: true,
