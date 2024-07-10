@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/api/:match*",
-      "destination": "https://your-netease-api.example.com/:match*"
+      "source": "/:match*",
+      "destination": "https://netease-cloud-music.api.zhengweixin.top/:match*"
     }
   ]
 }
