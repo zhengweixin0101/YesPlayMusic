@@ -728,12 +728,12 @@
 
       <div class="footer">
         <p class="author"
-          >MADE BY
-          <a href="http://github.com/qier222" target="_blank">QIER222</a></p
+          >BY
+          <a href="http://zhengweixin.top" target="_blank">Weixin Zheng</a></p
         >
-        <p class="version">v{{ version }}</p>
+        <p class="version">由 <a href="http://zhengweixin.top" target="_blank">Weixin Zheng</a> 基于 v{{ version }} 修改</p>
 
-        <a
+        <!--<a
           v-if="!isElectron"
           href="https://vercel.com/?utm_source=ohmusic&utm_campaign=oss"
         >
@@ -741,7 +741,7 @@
             height="36"
             src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg"
           />
-        </a>
+        </a>-->
       </div>
     </div>
   </div>
