@@ -728,10 +728,10 @@
 
       <div class="footer">
         <p class="author"
-          >BY
-          <a href="http://zhengweixin.top" target="_blank">Weixin Zheng</a></p
+          >MADE BY
+          <a href="http://github.com/qier222" target="_blank">QIER222</a></p
         >
-        <p class="version">由 <a href="http://zhengweixin.top" target="_blank">Weixin Zheng</a> 基于 v{{ version }} 修改</p>
+        <p class="version">v{{ version }}</p>
 
         <!--<a
           v-if="!isElectron"
@@ -741,7 +741,7 @@
             height="36"
             src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg"
           />
-        </a>-->
+        </a> -->
       </div>
     </div>
   </div>
